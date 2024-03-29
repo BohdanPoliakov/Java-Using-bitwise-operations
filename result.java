@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 class Main {
     public static void main(String[] args) {
-        System.out.println("231RDB415 Poliakov Bohdan 11");
         Scanner sc = new Scanner(System.in);
         System.out.print("input number: ");
         byte n = sc.nextByte();
