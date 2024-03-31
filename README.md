@@ -1,11 +1,11 @@
-# Izstrādāt programmu, kas izpilda sekojošas darbības:
-- Izvada informācija par programmas izstrādātāju(studenta apliecības numurs, vārds, uzvārds).
-- Ievada veselo skaitli n tipa byte. 
-- Izvada paziņojums "result:".
-- Izvada vieninieku skaitu skaitļa n binārā pierakstā. 
-Piemēram, ja tika ievadīts skaitlis 7, tad programmai ir jāizvada 3.
+# Develop a program that does the following:
+- Output information about the developer (student ID number, name, surname).
+- Enter an integer of type n byte. 
+- Outputs the message "result:".
+- Outputs the number of ones in the binary notation of the number n. 
+For example, if the number 7 was entered, the program must output 3.
 
-# Speciālās prasības programmai:
-- Neizmantot metodes Integer.bitCount() un Integer.toBinaryString(). Uzdevuma risināšanai izmantojiet bitu operācijas.
-- Ievades kļūdas atļauts neapstrādāt.
-- Programmas sākumā izvietot komentāru, kas satur informāciju par programmas izstrādātāju (studenta apliecības numurs, vārds, uzvārds, grupas numurs).
+# Special requirements for the program:
+- Do not use the methods Integer.bitCount() and Integer.toBinaryString(). Use bitwise operations to solve the problem.
+- Input errors are not allowed.
+- Place a comment at the beginning of the program containing information about the program developer (student ID number, name, group number).
